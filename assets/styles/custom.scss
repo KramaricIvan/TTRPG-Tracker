@@ -2,29 +2,29 @@
 
 :root {
   --light: #faf8f8;
-  --dark: #21173d;
-  --secondary: #5c36bc;
-  --tertiary: #9f36bc;
-  --visited: #3653bc;
-  --primary: #904db7;
+  --dark: #141021;
+  --secondary: #3f2763;
+  --tertiary: #84a59d;
+  --visited: #5d2763;
+  --primary: #a881f4;
   --gray: #4e4e4e;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);
-  --highlighted: #9a9bf488;
+  --highlighted: #d2adf488;
 }
 
 [saved-theme="dark"] {
-  --light: #21173d !important;
-  --dark: #faf8f8 !important;
-  --secondary: #2a2c9e!important;
-  --tertiary: #622a9e!important;
-  --visited: #2a669e!important;
-  --primary: #d291f7!important;
-  --gray: #4e4e4e!important;
+  --light: #1e1e21 !important;
+  --dark: #fbfffe !important;
+  --secondary: #945fb5 !important;
+  --visited: #4a575e !important;
+  --tertiary: #685eb5 !important;
+  --primary: #a881f4 !important;
+  --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
-  --highlighted: #5c36bc88;
+  --highlighted: #260f56;
 }
 
 
