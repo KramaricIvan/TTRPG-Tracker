@@ -92,7 +92,7 @@ git commit -m "Commit message here"
 ```
 
 - push to git 
->[! warning] make sure you push to HUGO branch, not master
+>[!error] make sure you push to HUGO branch, not master
 
 ```copy
 git push origin hugo
@@ -140,7 +140,7 @@ git commit -m "Commit message here"
 ```
 
 - push to git 
->[! warning] make sure you push to HUGO branch, not master
+>[!error] make sure you push to HUGO branch, not master
 
 ```copy
 git push origin hugo
