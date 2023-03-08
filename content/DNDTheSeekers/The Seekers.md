@@ -1,6 +1,6 @@
 ---
 title: "The Seekers"
-
+enableToc: false
 ---
 ___
 # An epic nordic flavored DND 5e campaign
