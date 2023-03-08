@@ -25,6 +25,15 @@ enableToc: true
 - If it's something for the campaign pages, then sort it in that campaigns image folder
 - if it's something for the notes and guides, then sort it in the notes/images folder
 
+- correct syntax for the images is 
+```
+![ ](/example/images/example.png)
+
+or for obs.png in note/images
+
+![ ](/notes/images/obs.png)
+```
+
 # 3. CSS
 
 - you can add custom CSS styling and change existing colours through editing `assets/styles/custom.scss`. If you'd like to target specific parts of the site, you can add ids and classes to the HTML partials in `/layouts/partials`. 

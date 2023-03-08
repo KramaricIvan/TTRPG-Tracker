@@ -21,7 +21,7 @@ enableToc: true
 > 2. Markdown editor
 > 	- recomended/what I'm using: [Obsidian.md](https://obsidian.md/) 
 
-# First time/setup
+# 1. First time/setup
 
 ### 1.  [Obsidian.md](https://obsidian.md/)
 
@@ -58,7 +58,9 @@ git clone https://github.com/KramaricIvan/TTRPG-Tracker
 ### 4. Link Obsidian
 
 - Open Obsidian
- ![[notes/images/Pasted image 20230308221623.png]]
+ ![Image](/notes/images/obs.png)
+ 
+
 - Pick "Open folder as vault"
 - Navigate to the new folder you just made
 - Navigate to the cloned repo
@@ -67,7 +69,7 @@ git clone https://github.com/KramaricIvan/TTRPG-Tracker
 
 ### 5. Done
 
-![[notes/images/Pasted image 20230308221921.png]]
+![](notes/images/vault.png)
 
 - well not really, the setup is done
 - you can edit now, and see the content as an Obsidian Vault
@@ -106,7 +108,7 @@ git push origin hugo
 
 
 
-# Updating 
+# 2. Updating 
 
 ### 1. Pull changes
 
