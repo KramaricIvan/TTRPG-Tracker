@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: false
-enableMermaid: true
+enableMermaid: false
 GitHubLink: 
 search:
   enableSemanticSearch: false
