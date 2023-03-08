@@ -9,9 +9,9 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: true
-enableMermaid: false
+enableRecentNotes: true
+enableGitHubEdit: false
+enableMermaid: true
 GitHubLink: 
 search:
   enableSemanticSearch: false
