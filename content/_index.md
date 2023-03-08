@@ -1,5 +1,5 @@
 ---
-title: TTRPG test site
+title: "TTRPG test site"
 enableToc: false
 ---
 
