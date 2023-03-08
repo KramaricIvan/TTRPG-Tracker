@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "cf6f9d6a84c3496b",
+    "id": "9875bc1666e29b5e",
     "type": "split",
     "children": [
       {
-        "id": "070ec0b6107d50c8",
+        "id": "ff9acb933a2166f5",
         "type": "tabs",
         "children": [
           {
-            "id": "82c952a3bf4f5fdb",
+            "id": "ae18f8b9089bcaf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND_The seekers/The seekers chars.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "747989fc3e4304f2",
+    "id": "5ea683f2c658de74",
     "type": "split",
     "children": [
       {
-        "id": "535d507e305549fe",
+        "id": "651ca1d8877c6bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "2629a143e8c83083",
+            "id": "cfcda831480977f3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "510df2185ec8f78b",
+            "id": "66f0395aa2fd968e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "8cb2efe15c10a7fd",
+            "id": "8220fde2165994b4",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "e96b6ec083950444",
+    "id": "46a5e193a5a4dafe",
     "type": "split",
     "children": [
       {
-        "id": "f0b84ac66d80708b",
+        "id": "43078511abfb0c02",
         "type": "tabs",
         "children": [
           {
-            "id": "b6d4445364568a0b",
+            "id": "e52df4bcc532b0ed",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND_The seekers/The seekers chars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "68851c96a96b5575",
+            "id": "05269fc4f2fa68a0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND_The seekers/The seekers chars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "066c7471fcbc8920",
+            "id": "bfe4097ba8826528",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,20 +114,10 @@
             }
           },
           {
-            "id": "4771e1b81500cb81",
+            "id": "fa90a8356916a8e8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DND_The seekers/The seekers chars.md"
-              }
-            }
-          },
-          {
-            "id": "332509005d3c34c6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -151,13 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "82c952a3bf4f5fdb",
-  "lastOpenFiles": [
-    "DND_The seekers/The seekers.md",
-    "DND_The seekers/The seekers chars.md"
-  ]
+  "active": "ae18f8b9089bcaf8",
+  "lastOpenFiles": []
 }
