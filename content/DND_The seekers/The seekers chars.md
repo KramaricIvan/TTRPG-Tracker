@@ -2,7 +2,7 @@
 title: "The seekers chars"
 ---
 # Rungni
-	test 1
+test 1
 
 
 # Raksha
