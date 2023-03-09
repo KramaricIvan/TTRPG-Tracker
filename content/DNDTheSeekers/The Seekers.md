@@ -8,9 +8,9 @@ started on 05/03/2023
 ___
 ![ ](DNDTheSeekers/images/seekersmap.jpeg)
 ___
-# [[DNDTheSeekers/The Seekers Chars |Player characters:]]
+# [[DNDTheSeekers/The Seekers Chars |Player characters]]
 ___
-# [[DNDTheSeekers/The Seekers Maps|Maps]]
+# [[DNDTheSeekers/The Seekers Maps|Maps]] 
 ___
 # [[DNDTheSeekers/The Seekers Log|Campaign Log]]
 ___
