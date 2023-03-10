@@ -2,7 +2,7 @@
 title: "AAron"
 ---
 
-![ ](DNDTheSeekers/images/Aaron.png)
+![ ](DNDTheSeekers/images/AAronpic.png)
 |Race|Class|Age|Alignment|
 |---|---|---|---|
 |human|warlock|27|lawful evil|
