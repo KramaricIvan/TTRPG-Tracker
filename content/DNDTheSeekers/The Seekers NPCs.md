@@ -1,5 +1,5 @@
 ---
-title:"NPCs"
+title: "NPCs"
 ---
 
 # Deities
