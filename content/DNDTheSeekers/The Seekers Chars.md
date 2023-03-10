@@ -2,19 +2,19 @@
 title: "Chars"
 ---
 ___
-# [[DNDTheSeekers/Chars/AAron|AAron]]
+# [[DNDTheSeekers/PlayerChars/AAron|AAron]]
 ___
-# [[DNDTheSeekers/Chars/Khashana|Khashana]]
+# [[DNDTheSeekers/PlayerChars/Khashana|Khashana]]
 ___
-# [[DNDTheSeekers/Chars/Potjeh|Potjeh]]
+# [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]]
 ___
-# [[DNDTheSeekers/Chars/Raksha|Raksha]]
+# [[DNDTheSeekers/PlayerChars/Raksha|Raksha]]
 ___
-# [[DNDTheSeekers/Chars/Rungni|Rungni]]
+# [[DNDTheSeekers/PlayerChars/Rungni|Rungni]]
 ___
-# [[DNDTheSeekers/Chars/Taboo|Taboo]]
+# [[DNDTheSeekers/PlayerChars/Taboo|Taboo]]
 ___
-# [[DNDTheSeekers/Chars/þrúđr|þrúđr]]
+# [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]]
 ___
 
 

@@ -10,7 +10,10 @@ ___
 ___
 # [[DNDTheSeekers/The Seekers Chars |Player characters]]
 ___
-# [[DNDTheSeekers/The Seekers Maps|Maps]] 
-___
 # [[DNDTheSeekers/The Seekers Log|Campaign Log]]
 ___
+# [[DNDTheSeekers/The Seekers NPCs|NPC characters]]
+___
+# [[DNDTheSeekers/The Seekers Maps|Maps]]
+___
+ 
