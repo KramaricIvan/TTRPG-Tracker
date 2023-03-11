@@ -8,4 +8,4 @@ title: "Potjeh"
 |centaur|druid|20|chaotic good|
 
 Titles: 
-The himbo (awarded by [[DNDTheSeekers/PlayerChars/AAron|Aaron]] and DM)
+- The himbo (awarded by [[DNDTheSeekers/PlayerChars/AAron|Aaron]] and DM)

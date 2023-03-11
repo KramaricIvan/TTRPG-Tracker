@@ -8,4 +8,4 @@ title: "Khashana"
 |kalashtar|blood hunter|||
 
 Titles: 
-The Zombie Slayer ([[DNDTheSeekers/Locations/Vidar|Gained in Vidar]])
+- The Zombie Slayer ([[DNDTheSeekers/Locations/Vidar|Gained in Vidar]])

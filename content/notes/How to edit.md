@@ -15,11 +15,11 @@ enableToc: true
 >
 
 > [!warning] Requirements
-> 1. [Github](https://github.com/)
-> 	- Account
-> 	- Preferable basic [GitBash](https://git-scm.com/downloads) knowledge
-> 2. Markdown editor
-> 	- recomended/what I'm using: [Obsidian.md](https://obsidian.md/) 
+> - 1. [Github](https://github.com/)
+> 		- Account
+> 		- Preferable basic [GitBash](https://git-scm.com/downloads) knowledge
+> - 2. Markdown editor
+> 		- recomended/what I'm using: [Obsidian.md](https://obsidian.md/) 
 
 # 1. First time/setup
 
