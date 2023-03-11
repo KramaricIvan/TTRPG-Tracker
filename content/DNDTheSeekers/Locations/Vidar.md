@@ -10,14 +10,14 @@ Interesting:
 - Cradle of 'The Seekers' legend
 
 The Seekers know about: 
-- they LOVE Vidar
+- they LOVE [[DNDTheSeekers/Characters/Deity/God Vidar|Vidar]]
 - they LOVE revenge
 - they HATE loud people (unless they are in combat)
-- Taboo no rizz on Vidar emo sceene
+- [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] no rizz on Vidar emo sceene
 - weapon shopkeep knows Dwarven, [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] and [[DNDTheSeekers/PlayerChars/AAron|Arron]] found out the hard way
 - Zombies raised by a returned sentry killed one of the gravekeepers
 - Other gravekeeper wants revenge on first gravekepper because he owed him 5gp 
-- Deceased gravekeepers sister dislikes [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] beacuse she disrespected Vidar 
+- Deceased gravekeepers sister dislikes [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] beacuse she disrespected [[DNDTheSeekers/Characters/Deity/God Vidar|Vidar]] 
 
 Visited in: 
 [[DNDTheSeekers/Sessions/Session 0/The Seekers Session 0|S0]]

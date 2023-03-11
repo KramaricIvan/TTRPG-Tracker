@@ -2,6 +2,9 @@
 title: "Hel"
 tag: [deity, god]
 ---
+![ ](DNDTheSeekers/images/helwinter.jpg)
+![ ](DNDTheSeekers/images/helartsty.png)
+
 
 What 'The Seekers' know: 
 - [[DNDTheSeekers/PlayerChars/AAron|AAron]] made a pact with Hel which granted him warlock powers
