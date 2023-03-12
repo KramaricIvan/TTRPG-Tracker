@@ -16,5 +16,5 @@ ___
 ___
 # [[DNDTheSeekers/The Seekers Maps|Maps]]
 ___
-# [[DNDTheSeekers/Norse Calendar]] 
+# [[DNDTheSeekers/Norse Calendar|Calendar]] 
 ___
