@@ -3,7 +3,7 @@ title: "Map"
 ---
 # WorldMap
 ![Continent](DNDTheSeekers/images/seekersmap.jpeg)
-[[DNDTheSeekers/Locations/Nation2|Nation2]]
+[[DNDTheSeekers/images/Blármen ríki|Blármen ríki]] | [[DNDTheSeekers/Locations/Hvassfelland|Hvassfelland]] | [[DNDTheSeekers/Locations/Eysjá|Eysjá]] | [[DNDTheSeekers/Locations/Aronia|Aronia]]
 
 # [[DNDTheSeekers/Locations/Vidar|Vidar]]
 ![ ](/DNDTheSeekers/images/VidarMapa.jpeg)

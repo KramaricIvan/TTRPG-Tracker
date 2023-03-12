@@ -1,10 +1,10 @@
 ---
 title: "Vidar"
-tag: [city, nation2]
+tag: [city, Blármen ríki]
 ---
 ![ ](/DNDTheSeekers/images/VidarMapa.jpeg)
 Location:
-- City in [[DNDTheSeekers/Locations/Nation2|nation2]]
+- City in [[DNDTheSeekers/images/Blármen ríki|nation2]]
 
 Interesting:
 - Cradle of 'The Seekers' legend
