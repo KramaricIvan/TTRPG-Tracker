@@ -1,4 +1,4 @@
 ---
-title: "Blármen ríki"
+title: "Blármen Ríki"
 tag: [nation, Blármen ríki]
 ---

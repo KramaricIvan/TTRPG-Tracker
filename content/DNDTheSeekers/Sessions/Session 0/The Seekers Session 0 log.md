@@ -29,4 +29,4 @@ title: "TheSeekers S0: LOG "
 	- after buying the map and having minnor inner squabble, rest of The Seekers learn the name of the deceased gravekeeper and visit his house
 	- gravekeepers sister cries in front of the party and they warn her of the other gravekeeper comming for her and the 5 gp deceased gravekeepr owes him
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] reveals devotion to [[DNDTheSeekers/Characters/Deity/God Forseti|Forseti]] and angers gravekeepers sister
-	- The Seekers meet in the "Mala kap"
+	- The Seekers meet in the "Mala kap", except [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] who is eating dinner at the old ladies house
