@@ -20,4 +20,4 @@ The Seekers know about:
 - Deceased gravekeepers sister dislikes [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] beacuse she disrespected [[DNDTheSeekers/Characters/Deity/God Vidar|Vidar]] 
 
 Visited in: 
-[[DNDTheSeekers/Sessions/Session 0/The Seekers Session 0|S0]]
+[[DNDTheSeekers/Sessions/Session 0/The Seekers Session 0|S0]], [[DNDTheSeekers/Sessions/Session 1/The Seekers Session 1|S1]]
