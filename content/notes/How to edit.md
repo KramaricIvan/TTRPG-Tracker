@@ -171,7 +171,7 @@ read
 AutoPush.sh (push your changes to git)
 ```copy
 #!/bin/sh
-cd C:/Users/Ivan/source/repos/TTRPG-Tracker/TTRPG-Tracker
+cd <your path to TTRPG-Tracker>
 git add .
 git commit -m "Autopush"
 git push
