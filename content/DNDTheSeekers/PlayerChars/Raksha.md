@@ -9,3 +9,9 @@ ___
 |half-orc|fighter|||
 ___
 Titles: 
+
+
+Horoscope: 
+- Laguz 3501. 
+	- source: [[DNDTheSeekers/Characters/NPC/Prīm|Prim]]
+	- Reci riječi koje su ti skrivene u dubini srca. Nema vremena kao sadašnjost.

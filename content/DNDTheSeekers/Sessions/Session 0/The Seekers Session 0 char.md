@@ -16,7 +16,7 @@ title: "TheSeekers S0: Char moments "
 	- [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] i [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] bacaju stvari iz inventorija za storage i unencumberedness u smece (bedroll & tinderbox go yeet~)
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] podmicuje ljude s mrkvama
 	- [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] uletava svima, al bez uspjeha 🥲
-	- [[DNDTheSeekers/PlayerChars/þrúđr|þrùðr]] se cijenka za popust sobe, ali Gumi se neda jer je cijena po osobi, a ne po sobi
+	- [[DNDTheSeekers/PlayerChars/þrúđr|þrùðr]] se cijenka za popust sobe, ali [[DNDTheSeekers/Characters/NPC/Gumi|Gumi]] se neda jer je cijena po osobi, a ne po sobi
 - #### 1. ᛚ (Laguz) 3501. 
 	- [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] izbacena iz turnira zbog varanja magijom
 	- farmerica op u turnamentu ranila podosta [[DNDTheSeekers/PlayerChars/Potjeh|Potjeha]], al [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] se neda i pobijeduje u dvoboju

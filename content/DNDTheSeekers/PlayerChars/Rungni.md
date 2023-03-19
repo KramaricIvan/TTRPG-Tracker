@@ -10,3 +10,8 @@ ___
 ___
 
 Titles:
+
+
+Horoscope: 
+- Laguz 3501. 
+	- didn't buy one

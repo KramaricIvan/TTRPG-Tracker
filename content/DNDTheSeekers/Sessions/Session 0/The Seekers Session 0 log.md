@@ -6,8 +6,8 @@ title: "TheSeekers S0: LOG "
 
 - #### 15. ᛗ (Mannaz) 3501. 
 	- [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] i [[DNDTheSeekers/PlayerChars/AAron|AAron]] dolaze u [[DNDTheSeekers/Locations/Vidar|Vidar]]
-	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] predlaze igru i skuplja sve na skup u Gumijevoj taverni
-	- Gumi predlaze [[DNDTheSeekers/PlayerChars/Raksha|Rakshi]] da se prijavi u Igre Snage
+	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] predlaze igru i skuplja sve na skup u [[DNDTheSeekers/Characters/NPC/Gumi|Gumijevoj]] taverni
+	- [[DNDTheSeekers/Characters/NPC/Gumi|Gumi]] predlaze [[DNDTheSeekers/PlayerChars/Raksha|Rakshi]] da se prijavi u Igre Snage
 	- druzina odlazi u hram i svi se prijavljuju
 	- druzina otkriva da stanovnici jako vole svog boga [[DNDTheSeekers/Characters/Deity/God Vidar|Vidara]] koji je medu ostalog bog osvete
 	- druzina se dijeli na one koji odlaze u gym i one koji odlaze u Visoki Market

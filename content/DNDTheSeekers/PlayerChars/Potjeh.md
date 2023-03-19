@@ -10,3 +10,9 @@ ___
 ___
 Titles: 
 - The himbo (awarded by [[DNDTheSeekers/PlayerChars/AAron|Aaron]] and DM)
+
+
+Horoscope: 
+- Laguz 3501. 
+	- source: [[DNDTheSeekers/Characters/NPC/Prīm|Prim]]
+	- Svemir će ti pružiti još jednu priliku.
