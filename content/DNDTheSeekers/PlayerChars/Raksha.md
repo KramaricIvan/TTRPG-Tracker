@@ -4,9 +4,9 @@ title: "Raksha"
 ___
 ![ ](DNDTheSeekers/images/rakshapic.png)
 ___
-|Race|Class|Age|Alignment|
-|---|---|---|---|
-|half-orc|fighter|||
+|Race|Class|Age|Alignment|Birthday|
+|---|---|---|---|---|
+|half-orc|fighter|||Hagalaz|
 ___
 Titles: 
 

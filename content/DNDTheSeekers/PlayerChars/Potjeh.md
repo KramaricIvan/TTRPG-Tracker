@@ -4,9 +4,9 @@ title: "Potjeh"
 ___
 ![ ](DNDTheSeekers/images/PotjehPic.png)
 ___
-|Race|Class|Age|Alignment|
-|---|---|---|---|
-|centaur|druid|20|chaotic good|
+|Race|Class|Age|Alignment|Birthday|
+|---|---|---|---|---|
+|centaur|druid|20|chaotic good|1. Uruz|
 ___
 Titles: 
 - The himbo (awarded by [[DNDTheSeekers/PlayerChars/AAron|Aaron]] and DM)

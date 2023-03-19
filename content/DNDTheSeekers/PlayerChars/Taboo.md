@@ -4,9 +4,9 @@ title: "Taboo"
 ___
 ![ ](DNDTheSeekers/images/taboopic.png)
 ___
-|Race|Class|Age|Alignment|
-|---|---|---|---|
-|feary|wizard||chaotic neutral|
+|Race|Class|Age|Alignment|Birthday|
+|---|---|---|---|---|
+|feary|wizard||chaotic neutral|14. Dagaz|
 ___
 Titles:
 

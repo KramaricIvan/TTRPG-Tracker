@@ -4,9 +4,9 @@ title: "Rungni"
 ___
 ![ ](DNDTheSeekers/images/rungnipic.png)
 ___
-|Race|Class|Age|Alignment|
-|---|---|---|---|
-|dwarf|fighter|||
+|Race|Class|Age|Alignment|Birthday|
+|---|---|---|---|---|
+|dwarf|fighter|||12. ingwaz|
 ___
 
 Titles:
