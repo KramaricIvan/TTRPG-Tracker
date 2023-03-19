@@ -20,18 +20,21 @@ title: "TheSeekers S1: Char moments "
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] and [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] get fed up and just leave the group and start walking towards the [[DNDTheSeekers/Locations/Vidar|Vidar]]
 	- Everyone follows, then they all talk to the gravekeeper.
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] feeling hopeful try to get some info from the gravekeeper but learn only that he is dumb and didn't really care for his wife
-
+___
+- 
 	-  [[DNDTheSeekers/PlayerChars/AAron|AAron]] and [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] get fed up again and just leave the group and start walking towards the Dyr Mountains
 	- [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] follows them and revelas he is going for the Dyr mountains in search of dwarven settlements, to which [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] opens up about his search for truth. 
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] question [[DNDTheSeekers/PlayerChars/AAron|AAron]] about why is he so tied to [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] and why is he always looking down at the floor
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] says that [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh's]] mother asked of him to protect little [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] on his adventures. Which [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] doubts, but rolls determine it's truth
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] procalimed he doesen't look up because he deems himself not worthy of his Godess, so he is to look to the ground. Which earns him o.O the approval of [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] O.o 
-	
+___
+- 
 	- [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] summons a snake familiar, which [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] approves of while [[DNDTheSeekers/PlayerChars/AAron|AAron]] looks at it with slight discomfort
 	- [[DNDTheSeekers/PlayerChars/Taboo|Taboo's]] tunes into the familar's senses, and scouts the camp they found on the road. Finding out the camp was burned and full of blood
 	- The Seekers together roll lower investigation than [[DNDTheSeekers/PlayerChars/AAron|AAron]] alone, which gets him some coins, an expensive ring, [[DNDTheSeekers/Items/Tattered notebook, Infernal|tattered bloody notebook]] 
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] reads [[DNDTheSeekers/Items/Tattered notebook, Infernal|the note written in infernal]] aloud
-	
+___
+- 
 	- In the forest [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] manages to get a glimpse of a random sprite buzzing around them
 	- The Seekers are ready to set camp, [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] and [[DNDTheSeekers/PlayerChars/AAron|AAron]] march forward to check for danger, [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] check the back while [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] and [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] collect twigs and clean up the sleeping spots
 	- During first sleep watch [[DNDTheSeekers/PlayerChars/AAron|AAron]] is sitting near the campfire and working on his masks, painting a facemask and carving a branch to look like Satyr horns while [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] is trying to discern different flowers in the darkness
@@ -50,7 +53,8 @@ title: "TheSeekers S1: Char moments "
 	- [[DNDTheSeekers/Characters/NPC/Thistle|Thistle]] not amused, dissapears into thin air when the wolves ambush the camp
 	- [[DNDTheSeekers/PlayerChars/Rungni|Rungni]], black wolf in his face, screams to wake up the group
 	- The Seekers prepare to fight the wolves
-	
+___
+- 
 	- [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] and [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] in the front, prepare for carnage
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]], [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]], [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] and [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] behind them get ready to cast
 	- [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] gets majority of the beating, most of the wolf pack swarms him, but [[DNDTheSeekers/PlayerChars/AAron|AAron]] comes join his side in the frontline, taking scarred (scar, not afraid) wolf's aggro
@@ -64,7 +68,8 @@ title: "TheSeekers S1: Char moments "
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]], protecting unconscious [[DNDTheSeekers/PlayerChars/Rungni|Rungni]], swings his hexblade while dashing besides the wolf, cuts his front leg off and plants his sword into back of the wolf's head. Wolf falls down, [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] raises [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] and [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] takes his revenge on the father wolf
 	- [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] slices mother wolf in half
 	- [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] slams his peaceful pretty shepards crook on the ground, which happens to hit scarred wolfs head, dig straight through it's skull and dig itself into the ground
-	
+___
+- 
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] skins the black wolf and takes his pelt (with head)
 	- mornign after the fight [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] makes wolf and carrot stew, and gives [[DNDTheSeekers/PlayerChars/AAron|AAron]] two portions because he praised [[DNDTheSeekers/Characters/Deity/God Forseti|Forseti]] 
 	- After some resting and more walking, The Seekers run into [[DNDTheSeekers/Characters/NPC/Prīm|Prīm]]. A halfling traveling with her donkey, selling horoscope and glass rings
@@ -82,7 +87,8 @@ title: "TheSeekers S1: Char moments "
 		- Ogromna oluja ide u tvojem smjeru. Imaš li kabanicu? ([[DNDTheSeekers/PlayerChars/AAron|AAron]])
 	- some people from party buy rings with their half-moon symbols, [[DNDTheSeekers/PlayerChars/AAron|AAron]] buys the most expensive looking one and scratches off the rune on the surrounding stones
 	- upon leaving, [[DNDTheSeekers/PlayerChars/AAron|AAron]] pases a note to [[DNDTheSeekers/Characters/NPC/Prīm|Prīm]], everyone who was looking back noticed
-	
+___
+- 
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] instantly questions [[DNDTheSeekers/PlayerChars/AAron|AAron]], he says it's just to apologise for scratching the stone. Rolls determine, that [[DNDTheSeekers/PlayerChars/AAron|AAron]] seems to be telling the truth
 	- The Seekers run into a decapitated blue hand, [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] proceedes to lick it and check how long it seems to be there
 	- [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] shares to the group that it's a female tiefling hand, cut off about 3 days ago
@@ -90,7 +96,8 @@ title: "TheSeekers S1: Char moments "
 	- Party continues to walk, [[DNDTheSeekers/Characters/NPC/Thistle|Thistle]] appears and says [[DNDTheSeekers/Characters/NPC/Prīm|Prīm]] is a sham, she writes down her horoscopes instead of divinating them. Then he goes down into the story of how he got kidnaped then just vanishes away few moments after
 		- Ne idi prvi u sukob. ([[DNDTheSeekers/Characters/NPC/Thistle|Thistle]])
 	- [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] and [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] kill two giant rats on the road, making a meaty mush of them... then 11 other giant rats jump out of the bushes
-
+___
+- 
 	-  [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] rushes from the random mans cart and joins the rest of the group, running and dashing
 	- [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] and [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] holding the front, get swarmed by yellow rats
 	- [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] joins by [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh's]] side
@@ -110,7 +117,8 @@ title: "TheSeekers S1: Char moments "
 	- As last 2 rats live, one of them gets revenge on [[DNDTheSeekers/PlayerChars/AAron|AAron]], knocking him down and ending his impressive looking rising tanking career
 	- Rats get cleared, [[DNDTheSeekers/PlayerChars/Khashana|Khashana]], [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] and [[DNDTheSeekers/PlayerChars/AAron|AAron]] laying among the rat corpses
 	- Group lays down all the rats, and puts their recovering co-travelers onto their rat corpe throne
-	
+___
+- 
 	- [[DNDTheSeekers/Characters/NPC/Prīm|Prīm]] walks out of nowhere, offering her services to [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] 
 	- [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] buys horoscope and a ring, feeling a bit ashamed to have material attachements
 		- Reci riječi koje su ti skrivene u dubini srca. Nema vremena kao sadašnjost ([[DNDTheSeekers/PlayerChars/Raksha|Raksha]])
