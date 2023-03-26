@@ -6,7 +6,7 @@ ___
 ___
 |Race|Class|Age|Alignment|Birthday|
 |---|---|---|---|---|
-|aasimar|paladin|||13. Tiwaz|
+|aasimar|paladin|30||13. Tiwaz|
 ___
 Titles:
 - Angel of [[DNDTheSeekers/Characters/Deity/God Forseti|Forseti]] (for being assimar in service of Forseti)

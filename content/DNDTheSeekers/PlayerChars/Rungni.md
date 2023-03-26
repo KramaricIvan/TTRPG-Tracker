@@ -6,7 +6,7 @@ ___
 ___
 |Race|Class|Age|Alignment|Birthday|
 |---|---|---|---|---|
-|dwarf|fighter|||12. ingwaz|
+|dwarf|fighter|93||12. ingwaz|
 ___
 
 Titles:

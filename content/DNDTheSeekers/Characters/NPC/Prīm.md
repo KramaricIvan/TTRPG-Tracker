@@ -1,9 +1,9 @@
 ---
 title: "Prīm"
-tag: [NPC, merchant, halfling]
+tag: [NPC, merchant, tiefling]
 ---
 
-race: halfling
+race: tiefling
 calling: traveling merchant
 
 DM Informacije:
