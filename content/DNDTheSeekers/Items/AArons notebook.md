@@ -7,5 +7,5 @@ tag: [item, AArons_drawing]
 
 
 ![](DNDTheSeekers/images/AAronNotebookPg1.png)
-![](DNDTheSeekers/images/AAronSnowflakeDrawing.png)
-![](DNDTheSeekers/images/AAronNotebookPg2.png)
+
+![](DNDTheSeekers/images/BirchCaveFloor1.png)![](DNDTheSeekers/images/BirchCaveFloor2.png)
