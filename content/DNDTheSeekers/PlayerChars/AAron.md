@@ -11,6 +11,8 @@ ___
 Titles: 
 - [[DNDTheSeekers/Characters/Deity/Godesse Hel|Hel's]] hexblade (for being a hexblade warlock in pact with Hel)
 
+Items: 
+- [[DNDTheSeekers/Items/AArons notebook|AAron's notebook]]
 
 Horoscope: 
 - Laguz 3501. 
