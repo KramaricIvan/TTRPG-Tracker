@@ -2,10 +2,10 @@
 title: "Gumi"
 tag: [NPC, barkeep, merchant, human]
 ---
-race: human
-calling: barkeep
+- race: human
+- calling: barkeep
 
-DM informacije:
+ DM informacije:
 - Stari čovjek, polu ćelav. Drži krpu na ramenu. Malo smrdi po alkoholu.
 
 The Seekers know: 

@@ -3,8 +3,8 @@ title: "Prīm"
 tag: [NPC, merchant, tiefling]
 ---
 
-race: tiefling
-calling: traveling merchant
+- race: tiefling
+- calling: traveling merchant
 
 DM Informacije:
 - Ima crveno-narančastu kožu i tamnu kosu svezanu u punđu. Oko glave joj je svezana marama s uzorcima u raznim toplim bojama. Ima puno naušnica i nakita koji izgledaju kao drago kamenje. Nosi lijepo izrađenu haljinu koja joj dolazi do koljena.

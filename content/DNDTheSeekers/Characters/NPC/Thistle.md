@@ -2,8 +2,8 @@
 title: "Thistle"
 tag: [NPC, traveler, sprite]
 ---
-race: sprite (small fae)
-calling: traveling merchant
+- race: sprite (small fae)
+- calling: traveling merchant
 
 DM Informacije:
 - Ima ljubičasto rozu čupavu kosu i nosi zelenu odjeću.
