@@ -19,14 +19,14 @@ title: "TheSeekers S0: LOG "
 # SESSION 0.5:
 
 - #### 1. ᛚ (Laguz) 3501. 
-	- [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] dispatches of the Returned Sentry while [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] slays the zombies
-	- The Seekers get awarded gold from the [[DNDTheSeekers/Locations/Vidar|Vidar]] highpriest, [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] gets [[DNDTheSeekers/Characters/Deity/God Vidar|Vidar's]] blessing
-	- The Seekers investigate the graveyard: 
-		- Lina and Lana were the zombies 
-		- One of gravekeepers was smashed into pulp by zombies
-		- Seekers tracked sentry sized footsteps to the city 
-	- [[DNDTheSeekers/PlayerChars/AAron|Aaron]] and [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] go eat lunch in "Mala kap", while rest of The Seekers go shopping for a map
-	- after buying the map and having minnor inner squabble, rest of The Seekers learn the name of the deceased gravekeeper and visit his house
-	- gravekeepers sister cries in front of the party and they warn her of the other gravekeeper comming for her and the 5 gp deceased gravekeepr owes him
-	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] reveals devotion to [[DNDTheSeekers/Characters/Deity/God Forseti|Forseti]] and angers gravekeepers sister
-	- The Seekers meet in the "Mala kap", except [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] who is eating dinner at the old ladies house
+	- [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] dispatches of the Returned Sentry while [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] slays the zombies  
+	- The Seekers get awarded gold from the [[DNDTheSeekers/Locations/Vidar|Vidar]] highpriest, [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] gets [[DNDTheSeekers/Characters/Deity/God Vidar|Vidar's]] blessing  
+	- The Seekers investigate the graveyard:   
+		- Lina and Lana were the zombies   
+		- One of the gravekeepers was smashed into pulp by zombies  
+		- Seekers tracked sentry sized footsteps to the city   
+	- [[DNDTheSeekers/PlayerChars/AAron|Aaron]] and [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] go eat lunch in "Mala Kap,", while the rest of The Seekers go shopping for a map  
+	- after buying the map and having a minor inner squabble, the rest of The Seekers learn the name of the deceased gravekeeper and visit his house  
+	- The gravekeeper's sister cries in front of the party, and they warn her of the other gravekeeper coming for her, and the 5 gp deceased gravekeeper owes him  
+	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] reveals devotion to [[DNDTheSeekers/Characters/Deity/God Forseti|Forseti]] and angers the gravekeeper's sister  
+	- The Seekers gather in the "Mala Kap," with the exception of [[DNDTheSeekers/PlayerChars/Taboo|Taboo]], who is eating dinner at the old ladies' house.

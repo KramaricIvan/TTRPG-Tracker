@@ -10,6 +10,8 @@ ___
 ___
 Titles:
 
+Familiar: 
+- [[DNDTheSeekers/Characters/NPC/Larabonkaorochimaruvoldemortnagini Junior|Larabonkaorochimaruvoldemortnagini Junior]] (poisonus snake)
 
 Horoscope: 
 - Laguz 3501. 

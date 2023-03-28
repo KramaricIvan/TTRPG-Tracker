@@ -7,3 +7,5 @@ title: "Map"
 
 # [[DNDTheSeekers/Locations/Vidar|Vidar]]
 ![ ](/DNDTheSeekers/images/VidarMapa.jpeg)
+
+# [[DNDTheSeekers/Items/Birchcave map|"Birchcave map", Dyr Mountains]]

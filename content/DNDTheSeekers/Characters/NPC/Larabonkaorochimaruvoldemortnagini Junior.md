@@ -1,5 +1,5 @@
 ---
-title: "Nesto Nagini Orochimaru Voldemort Nesto Nesto"
+title: "Larabonkaorochimaruvoldemortnagini Junior"
 tag: [familiar, snake]
 ---
 - race: snake

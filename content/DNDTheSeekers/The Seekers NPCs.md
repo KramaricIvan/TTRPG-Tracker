@@ -10,6 +10,8 @@ ___
 ___
 # NPCs
 
+- Familiars:
+	- [[DNDTheSeekers/Characters/NPC/Larabonkaorochimaruvoldemortnagini Junior|Larabonkaorochimaruvoldemortnagini Junior]]
 - Travelers: 
 	- [[DNDTheSeekers/Characters/NPC/Thistle|Thistle]]
 ___
