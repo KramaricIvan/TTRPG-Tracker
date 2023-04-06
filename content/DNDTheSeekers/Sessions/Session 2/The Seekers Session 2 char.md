@@ -86,4 +86,4 @@ ___
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] to heal only damage he took, curses the one single fish that was left of the second swarm. He slices it into two clean fillets and a floating spine
 	- The Seekers find 42 dead quippers and decide to take them
 	- [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] prodly picks up 4 fish, [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] 14 while [[DNDTheSeekers/PlayerChars/AAron|AAron]] picks up the rest with a make-shit net made from cloth found in the ogre room
-		![[DNDTheSeekers/images/Pasted image 20230406084328.png]]
+		- ![](DNDTheSeekers/images/feshes.png)

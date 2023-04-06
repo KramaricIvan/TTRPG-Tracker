@@ -37,4 +37,4 @@ ___
 	- [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] thorn whips the quippers on [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] into a fish ball
 	- everyone surrounds [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] hoping to help kill the quippers that are attacking her
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] makes sushi with the last fish of the second swarm, healing with the hexblades curse from the friendly fire
-		- ![[DNDTheSeekers/images/Pasted image 20230406084328.png]]
+		- ![](DNDTheSeekers/images/feshes.png)
