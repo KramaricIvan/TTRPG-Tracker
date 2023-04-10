@@ -16,3 +16,8 @@ title: "Log"
 - 4. ᛚ (Laguz); 3501. 
 	- [[DNDTheSeekers/Sessions/Session 2/The Seekers Session 2 log|S2: log]]
 	- [[DNDTheSeekers/Sessions/Session 2/The Seekers Session 2 char|S2: char moments]]
+
+# [[DNDTheSeekers/Sessions/Session 3/The Seekers Session 3|S3]] 
+- 4. ᛚ (Laguz); 3501. 
+	- [[DNDTheSeekers/Sessions/Session 3/The Seekers Session 3 log|S3: log]]
+	- [[DNDTheSeekers/Sessions/Session 3/The Seekers Session 3 char|S3: char moments]]
