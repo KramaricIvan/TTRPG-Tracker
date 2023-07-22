@@ -10,7 +10,7 @@ title: "TheSeekers S1: LOG "
 	- [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] still not feeling well, she stays in "Mala Kap" to rest  
 	- The Seekers follow the tracks for a few hours into the southern forest
 	- The Seekers stumbled upon the burned snowflake-like shape:
-		- ![ ](DNDTheSeekers/images/burnedmagicsnowlake.png)
+		- ![ |300](DNDTheSeekers/images/burnedmagicsnowlake.png)
 	 - Everyone tries everything, and nothing happens. To list some things: Investigation, History, and Aracana checks found nothing, burning fire on it did nothing; splashing water did nothing, digging did nothing; throwing a shield from the sentry at it did nothing; and licking it revealed it tastes like burnt ground
 	 - The Seekers return to the graveyard and talk to the surviving gravekeeper. They find out... nothing about the snowflake, and that the gravekeeper's unloved wife was a witch  
 	 - The Seekers leave [[DNDTheSeekers/Locations/Vidar|Vidar]] and head towards the Dyr Mountains, [[DNDTheSeekers/Locations/Hvassfelland|Hvassfelland]]  
@@ -39,4 +39,4 @@ title: "TheSeekers S1: LOG "
 	- The Seekers prepare to slaughter the 11 giant rats, when Raksha charges in from behind and joins the fight.   
 	- The Seekers slayed the rats, with some minor casualties  
 	- The Seekers are setting up a camp, to let their unconscious co-travelers recover  
-		- ![ ](DNDTheSeekers/images/session1.5result.png)
+		- ![ |300](DNDTheSeekers/images/session1.5result.png)

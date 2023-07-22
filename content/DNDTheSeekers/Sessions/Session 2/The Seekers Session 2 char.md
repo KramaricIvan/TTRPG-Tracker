@@ -29,7 +29,7 @@ ___
 	- upon [[DNDTheSeekers/PlayerChars/AAron|AAron's]] mindful investigation of the water, The Seekers learn of the peculiar dark/deep square in the water  
 	- but before they could act, their bones get shaken up by the loud thumping  
 	- Huge zombie ogre joins The Seekers in exploring the cavernous aquatic flora and fauna
-		- ![](DNDTheSeekers/images/zombieogre.png)  
+		- ![|400](DNDTheSeekers/images/zombieogre.png)  
 ___  
 - -  
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] charges to the undead spawn fearlessly, the whole room shining from her angelic presence (or flare mace, it's probably the flare mace)  
@@ -69,7 +69,7 @@ ___
 ___  
 - -  
 	- group swims for a bit when all of a sudden a swarm of frenzied quippers rushes at them  
-		- ![](DNDTheSeekers/images/swarmquippers.png)  
+		- ![|300](DNDTheSeekers/images/swarmquippers.png)  
 ___
 
 # Character highlights 2.5:

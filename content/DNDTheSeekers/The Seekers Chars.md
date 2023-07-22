@@ -2,7 +2,8 @@
 title: "Chars"
 ---
 ___
-# [[DNDTheSeekers/PlayerChars/AAron|AAron]]
+# ![ |200](DNDTheSeekers/images/AAronpic.png)    
+# [[DNDTheSeekers/PlayerChars/AAron|AAron]] 
 ___
 # [[DNDTheSeekers/PlayerChars/Khashana|Khashana]]
 ___
