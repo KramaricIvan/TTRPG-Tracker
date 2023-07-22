@@ -17,14 +17,15 @@ title: "TheSeekers S2: LOG "
 	- just a bit further, the iron doors make The Seekers turn back   
 	- the sounds of waterfalls attract The Seekers into a big open room  
 	- After some horsing around [[DNDTheSeekers/PlayerChars/AAron|AAron]] **[ELDRITCH BLASTS!](  )** the water pool inside the room, finds a hole in the water, and alarms the giant zombie ogre! 
-		- ![](DNDTheSeekers/images/zombieogre.png)  
+		- ![|300](DNDTheSeekers/images/zombieogre.png)  
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/AAron|AAron]] rush to battle, [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] cultivating a bush of goodberries  
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] breaks the curse of missing and deals her first damage this whole campaign, but it seems [[DNDTheSeekers/PlayerChars/AAron|AAron]] caught it as he hits [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] with **[ELDRITCH BLAST!]( )** by accident  
 	- Seekers dispose of Ogre, find the three TIEFLINGS from the [[DNDTheSeekers/Items/Tattered notebook, Infernal|notebook]] dead and get some loot from the ogre's room.  
+		- ![|300](DNDTheSeekers/images/ogrebattle.png)
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] decide to dive into the hole [[DNDTheSeekers/PlayerChars/AAron|AAron]] discovered  
 	- After some time, the whole party descends into the underground cave filled with glowing stones (Crowbar and morningn star go brrrr [[DNDTheSeekers/PlayerChars/Rungni|Rungni]], [[DNDTheSeekers/PlayerChars/AAron|AAron]])  
 	- The seekers descend into the caves, then decide to follow a water path, when all of a sudden a swarm of frenzied quippers rushes at them   
-		- ![](DNDTheSeekers/images/swarmquippers.png)  
+		- ![|400](DNDTheSeekers/images/swarmquippers.png)  
 ___
 
 # SESSION 2.5:
@@ -37,4 +38,4 @@ ___
 	- [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] thorn whips the quippers on [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] into a fish ball
 	- everyone surrounds [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] hoping to help kill the quippers that are attacking her
 	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] makes sushi with the last fish of the second swarm, healing with the hexblades curse from the friendly fire
-		- ![](DNDTheSeekers/images/feshes.png)
+		- ![|500](DNDTheSeekers/images/feshes.png)
