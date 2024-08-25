@@ -1,6 +1,7 @@
-
 ---
-title: "TheSeekers S2: LOG "  
+title: "TheSeekers S2: LOG"
+---
+
 ---
 
 # SESSION 2:
