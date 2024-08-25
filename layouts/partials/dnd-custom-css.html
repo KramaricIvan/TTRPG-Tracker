@@ -1,17 +1,18 @@
 {{/* layouts/partials/dnd-custom-css.html */}}
 {{ $content := . | string }}
-{{ $dndStart := "<!-- dnd-item-start -->" }}
-{{ $dndEnd := "<!-- dnd-item-end -->" }}
+{{ $dndStart := `<!-- dnd-item-start -->` }}
+{{ $dndEnd := `<!-- dnd-item-end -->` }}
 
-{{/* Find all content between start and end markers */}}
-{{ $pattern := printf `(?s)%s(.*?)%s` (regexpQuoteMeta $dndStart) (regexpQuoteMeta $dndEnd) }}
+{{/* Pattern to find content between the markers */}}
+{{ $pattern := printf `(?s)%s(.*?)%s` $dndStart $dndEnd }}
 {{ $matches := findRE $pattern $content }}
 
-{{/* Replace all matched content with the wrapped version */}}
+{{/* Replace matched content with styled divs */}}
 {{ range $matches }}
-  {{ $dndContent := index . 1 }}
-  {{ $content = replaceRE (printf `(?s)%s(.*?)%s` (regexpQuoteMeta $dndStart) (regexpQuoteMeta $dndEnd)) (printf `<div class="dnd-item">%s</div>` $dndContent) $content }}
+  {{ $dndContent := index . 1 | safeHTML }}
+  {{ $replacement := printf `<div class="dnd-item">%s</div>` $dndContent }}
+  {{ $content = replace $content (index . 0) $replacement }}
 {{ end }}
 
-{{/* Render the final content */}}
+{{/* Render the final content with replacements */}}
 {{ $content | safeHTML }}
