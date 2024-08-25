@@ -57,7 +57,7 @@
   {{$finalCss := $css | resources.Concat "styles.css" | resources.Fingerprint "md5" | resources.Minify  }}
   <link href="{{$finalCss.Permalink}}" rel="stylesheet" />
 
-  
+  <link rel="stylesheet" href= "styles/custom.scss" />
 
 
   {{$lightSyntax := resources.Get "styles/_light_syntax.scss" | resources.ToCSS (dict "outputStyle" "compressed") | resources.Fingerprint "md5" | resources.Minify  }}
@@ -248,12 +248,6 @@
       render()
     })
   </script>
-
-<!-- DND item -->
-<link rel="stylesheet" href= "styles/custom.scss" />
-
-link href="{{$finalCss.Permalink}}" rel="stylesheet" />
-
   {{end}}
   {{ $trimmedURL := trim (index (split .Site.BaseURL "://") 1) "/" }}
   <script defer data-domain="{{$trimmedURL}}" src="https://plausible.io/js/script.js"></script>
