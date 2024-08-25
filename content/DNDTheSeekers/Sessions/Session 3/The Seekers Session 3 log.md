@@ -54,6 +54,23 @@ title: "TheSeekers S3: LOG "
 	- The Seekers agree to follow AAron when he show that Necro drew them a map of the rest of the cave and how to exit out
 ___
 
-# SESSION 3.5:
 
-- #### 4. ᛚ (Laguz) 3501.
+4. 
+   
+   Going out of cave on upper side, seeing nothing
+   Going down, finding thistle
+   Intergoating Thistle who knows nothing
+   GOing up, fininding village
+   Talking to guards
+   Talking to Fig
+   Getting seeds
+   Getting a bug quest and talking to emo
+   SLeeping and leveling up
+  Killing bugs for ages. 4 beetles, 2 ants
+  
+  Taboo has bug on head
+  Potjeh thunderwaves
+  Prudr  fails with lance
+  Raksha op but cheating 
+  AAron uses mist tricks and almost dies
+  Prudr saves him

@@ -6,7 +6,7 @@ ___
 # Current DND campaigns:
 
 - # [[DNDTheSeekers/The Seekers |The Seekers]]
-
+- # [[DNDDarkTidesCarnival/The Dark Tides Carnival|The Dark Tides Carnival]]
 ___
 ___
 Site notes: 

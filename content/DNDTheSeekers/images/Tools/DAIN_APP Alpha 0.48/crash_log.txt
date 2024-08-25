@@ -1,0 +1,9 @@
+
+App Crash Log Traceback (most recent call last):
+  File "my_design.py", line 92, in run
+  File "my_DAIN_class.py", line 1833, in RenderVideo
+  File "my_DAIN_class.py", line 1729, in StepCreateVideo
+  File "my_DAIN_class.py", line 779, in create_video2
+  File "my_DAIN_class.py", line 615, in GeneratePILGif
+Exception: pallet.png not found. Did you run step 1 with 'Limit Colors' on?
+
