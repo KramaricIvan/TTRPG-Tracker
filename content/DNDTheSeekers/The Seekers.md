@@ -1,5 +1,5 @@
 ---
-title: "The Seekers"
+title: The Seekers
 enableToc: false
 ---
 ___

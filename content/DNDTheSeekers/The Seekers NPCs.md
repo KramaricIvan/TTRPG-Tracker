@@ -1,5 +1,6 @@
 ---
-title: "NPCs"
+title: NPCs
+enableToc: true
 ---
 ___
 # Deities

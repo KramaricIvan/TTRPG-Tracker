@@ -1,4 +1,3 @@
-
 ---
 title: "TheSeekers S3: LOG "  
 ---
