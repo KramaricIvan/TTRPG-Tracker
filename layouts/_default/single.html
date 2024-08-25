@@ -20,6 +20,7 @@
             {{ .LinkTitle | humanize }}
           {{else}}
             {{ .LinkTitle }}
+            {{- .Content | safeHTML | partial "dnd-custom-css.html" . -}}
           {{end}}
             </a>
            </li>

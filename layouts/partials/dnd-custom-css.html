@@ -1,0 +1,12 @@
+{{/* layouts/partials/dnd-custom-css.html */}}
+{{ $content := . | string }}
+{{ $dndStart := "<!-- dnd-item-start -->" }}
+{{ $dndEnd := "<!-- dnd-item-end -->" }}
+
+{{ $dndPattern := printf `(?s)%s(.*?)%s` (regexpEscape $dndStart) (regexpEscape $dndEnd) }}
+{{ $content = findRE $dndPattern $content }}
+{{ range $content }}
+  <div class="dnd-item">
+    {{ . | safeHTML }}
+  </div>
+{{ end }}
