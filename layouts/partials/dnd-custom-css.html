@@ -3,10 +3,15 @@
 {{ $dndStart := "<!-- dnd-item-start -->" }}
 {{ $dndEnd := "<!-- dnd-item-end -->" }}
 
-{{ $dndPattern := printf `(?s)%s(.*?)%s` (regexpEscape $dndStart) (regexpEscape $dndEnd) }}
-{{ $content = findRE $dndPattern $content }}
-{{ range $content }}
-  <div class="dnd-item">
-    {{ . | safeHTML }}
-  </div>
+{{/* Find all content between start and end markers */}}
+{{ $pattern := printf `(?s)%s(.*?)%s` (regexpQuoteMeta $dndStart) (regexpQuoteMeta $dndEnd) }}
+{{ $matches := findRE $pattern $content }}
+
+{{/* Replace all matched content with the wrapped version */}}
+{{ range $matches }}
+  {{ $dndContent := index . 1 }}
+  {{ $content = replaceRE (printf `(?s)%s(.*?)%s` (regexpQuoteMeta $dndStart) (regexpQuoteMeta $dndEnd)) (printf `<div class="dnd-item">%s</div>` $dndContent) $content }}
 {{ end }}
+
+{{/* Render the final content */}}
+{{ $content | safeHTML }}
